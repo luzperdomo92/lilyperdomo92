@@ -5,7 +5,6 @@
 <p align="left">
 <a href="https://twitter.com/hikari_perdomo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hikari_perdomo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/luzaperdomo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/luzaperdomo" height="30" width="40" /></a>
-<a href="https://instagram.com/hikariperdomo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hikariperdomo" height="30" width="40" /></a>
 <a href="https://medium.com/@lilyperdomo92" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@lilyperdomo92" height="30" width="40" /></a>
 </p>
 
