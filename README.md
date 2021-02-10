@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Luz A. Perdomo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luzperdomo92&label=Profile%20views&color=0e75b6&style=flat" alt="luzperdomo92" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luzperdomo92" alt="luzperdomo92" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@hikari_perdomo" target="blank"><img src="https://img.shields.io/twitter/follow/@hikari_perdomo?logo=twitter&style=for-the-badge" alt="@hikari_perdomo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hikari_perdomo" target="blank"><img src="https://img.shields.io/twitter/follow/hikari_perdomo?logo=twitter&style=for-the-badge" alt="hikari_perdomo" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks like React, Angular and Vue.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@hikari_perdomo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@hikari_perdomo" height="30" width="40" /></a>
+<a href="https://twitter.com/hikari_perdomo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hikari_perdomo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/luzaperdomo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/luzaperdomo/" height="30" width="40" /></a>
 <a href="https://instagram.com/hikariperdomo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hikariperdomo" height="30" width="40" /></a>
 </p>
@@ -20,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luzperdomo92&show_icons=true&locale=en&layout=compact" alt="luzperdomo92" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luzperdomo92&show_icons=true&locale=en" alt="luzperdomo92" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luzperdomo92&" alt="luzperdomo92" /></p>
